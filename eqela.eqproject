@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Bien_ImageScene
+#
+
+projectname: Bien_ImageScene
+vendorid: com.mycompany
+mainmodule: com.mycompany.bienimagescene
