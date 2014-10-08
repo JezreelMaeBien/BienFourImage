@@ -11,17 +11,19 @@ public class Main : SEScene
     SESprite image3;
     SESprite image4;
 
-    SESprite textlabel1;
-    SESprite textlabel2;
-    SESprite textlabel3;
-    SESprite textlabel4;
-
     String text1;
     String text2;
     String text3;
     String text4;
-    int ctr = 0;
+  
 
+   SESprite textlabel1;
+    SESprite textlabel2;
+    SESprite textlabel3;
+    SESprite textlabel4;
+   
+    int ctr = 0;
+   
 
     public void initialize(SEResourceCache rsc) {
         base.initialize(rsc);
